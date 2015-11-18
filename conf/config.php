@@ -7,6 +7,6 @@ $config = [
         "databasename" => "club"
       ],
     "web" => [
-        "base_url" => "/Club"
+        "base_url" => ""
       ]
   ];
